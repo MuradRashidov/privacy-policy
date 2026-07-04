@@ -1,0 +1,26 @@
+# Garden Privacy Policy
+
+This repository contains the Privacy Policy for the Garden mobile application.
+
+The Garden app is a hotel reservation platform that allows users to:
+
+- Create an account
+- Sign in securely
+- Browse available room types
+- Make hotel reservations
+- Receive reservation confirmation emails
+- Receive push notifications related to reservations
+
+## Privacy Policy
+
+The complete Privacy Policy is available on the published website associated with this repository.
+
+## Contact
+
+If you have any questions regarding this Privacy Policy, please contact:
+
+Email: gabalagardenapp.az@gmail.com
+
+## Developer
+
+Murad Rashidov
